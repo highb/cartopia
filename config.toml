@@ -4,6 +4,9 @@ languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
 
+# Needed for github pages
+publishDir = "docs"
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
