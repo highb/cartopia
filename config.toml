@@ -1,5 +1,5 @@
-title = "Cartopia"
-baseURL = "https://highb.github.io/cartopia"
+title = "Cartropolis"
+baseURL = "https://highb.github.io/cartropolis"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
